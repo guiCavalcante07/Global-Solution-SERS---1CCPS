@@ -6,7 +6,7 @@ Global Solution - Neighborghood Action Dashboard
 Turma 1CCPS
 
 Integrantes:
-Guilherme Cavalcante da Costa - RM 575153 - 1CCPS
-Pedro Henrique Hernandes de Paula - RM 575010 - 1CCPS
+* **Guilherme Cavalcante da Costa** - RM 575153 - 1CCPS
+* **Pedro Henrique Hernandes de Paula** - RM 575010 - 1CCPS
 
-Repositorio: https://github.com/usuario/engman-copilot
+Repositorio: https://github.com/guiCavalcante07/Global-Solution-SERS---1CCPS/tree/main
