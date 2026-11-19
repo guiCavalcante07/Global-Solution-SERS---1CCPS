@@ -10,4 +10,5 @@ Integrantes:
 * **Pedro Henrique Hernandes de Paula** - RM 575010 - 1CCPS
 
 Repositorio: https://github.com/guiCavalcante07/Global-Solution-SERS---1CCPS/tree/main
-* Arquivo de vídeo sobre o projeto: https://drive.google.com/drive/folders/1nTgUcnRdyZDktMy8L4IEctwEAqkhUc7S?usp=drive_link
+
+Arquivo de vídeo sobre o projeto: https://drive.google.com/drive/folders/1nTgUcnRdyZDktMy8L4IEctwEAqkhUc7S?usp=drive_link
