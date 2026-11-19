@@ -12,3 +12,5 @@ Integrantes:
 Repositorio: https://github.com/guiCavalcante07/Global-Solution-SERS---1CCPS/tree/main
 
 Arquivo de vídeo sobre o projeto: https://drive.google.com/drive/folders/1nTgUcnRdyZDktMy8L4IEctwEAqkhUc7S?usp=drive_link
+
+Link do Youtube: https://youtu.be/GvVpHYcWSy4
